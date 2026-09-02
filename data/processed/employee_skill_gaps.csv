@@ -1,0 +1,501 @@
+EmployeeNumber,JobRole,ONETRole,SkillGap,SkillGapCount
+1,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+2,Research Scientist,Biological Scientists,,0
+4,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+5,Research Scientist,Biological Scientists,,0
+7,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",7
+8,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+10,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+11,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+12,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+13,Healthcare Representative,Sales Representatives of Services,,0
+14,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+15,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+16,Research Scientist,Biological Scientists,,0
+18,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science",6
+19,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+20,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+21,Research Scientist,Biological Scientists,,0
+22,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+23,Manager,General and Operations Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",7
+24,Research Scientist,Biological Scientists,,0
+26,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+27,Sales Representative,Sales Representatives of Services,,0
+28,Research Director,Natural Sciences Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",7
+30,Research Scientist,Biological Scientists,,0
+31,Research Scientist,Biological Scientists,,0
+32,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+33,Research Scientist,Biological Scientists,,0
+35,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+36,Healthcare Representative,Sales Representatives of Services,,0
+38,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+39,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+40,Healthcare Representative,Sales Representatives of Services,,0
+41,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+42,Sales Representative,Sales Representatives of Services,,0
+45,Research Scientist,Biological Scientists,,0
+46,Research Scientist,Biological Scientists,,0
+47,Sales Representative,Sales Representatives of Services,,0
+49,Sales Representative,Sales Representatives of Services,,0
+51,Research Scientist,Biological Scientists,,0
+52,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+53,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+54,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+55,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+56,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+57,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+58,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+60,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+61,Research Scientist,Biological Scientists,,0
+62,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+63,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+64,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+65,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+68,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+70,Healthcare Representative,Sales Representatives of Services,,0
+72,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+73,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+74,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+75,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+76,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science, Speaking",6
+77,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+78,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+79,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+80,Research Director,Natural Sciences Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+81,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+83,Healthcare Representative,Sales Representatives of Services,,0
+84,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+85,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+86,Research Scientist,Biological Scientists,,0
+88,Research Scientist,Biological Scientists,,0
+90,Research Scientist,Biological Scientists,,0
+91,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+94,Research Scientist,Biological Scientists,,0
+95,Research Scientist,Biological Scientists,,0
+96,Research Scientist,Biological Scientists,,0
+97,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+98,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+100,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+101,Research Director,Natural Sciences Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+102,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+103,Human Resources,Human Resources Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",7
+104,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science",7
+105,Research Scientist,Biological Scientists,,0
+106,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+107,Research Scientist,Biological Scientists,,0
+110,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+112,Manufacturing Director,Industrial Production Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+113,Sales Representative,Sales Representatives of Services,,0
+116,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+117,Healthcare Representative,Sales Representatives of Services,,0
+118,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",7
+119,Healthcare Representative,Sales Representatives of Services,,0
+120,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science, Writing",6
+121,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+124,Healthcare Representative,Sales Representatives of Services,,0
+125,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+126,Research Director,Natural Sciences Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+128,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science",6
+129,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+131,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+132,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+133,Human Resources,Human Resources Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+134,Research Scientist,Biological Scientists,,0
+137,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+138,Research Scientist,Biological Scientists,,0
+139,Healthcare Representative,Sales Representatives of Services,,0
+140,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+141,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+142,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+143,Research Scientist,Biological Scientists,,0
+144,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+145,Healthcare Representative,Sales Representatives of Services,,0
+147,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+148,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+150,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+151,Research Scientist,Biological Scientists,,0
+152,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science",7
+153,Manager,General and Operations Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+154,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+155,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+158,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+159,Research Scientist,Biological Scientists,,0
+160,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+161,Research Scientist,Biological Scientists,,0
+162,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+163,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+164,Research Scientist,Biological Scientists,,0
+165,Healthcare Representative,Sales Representatives of Services,,0
+167,Sales Representative,Sales Representatives of Services,,0
+169,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+170,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+171,Research Scientist,Biological Scientists,,0
+174,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+175,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+176,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+177,Human Resources,Human Resources Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+178,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+179,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+182,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+183,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+184,Human Resources,Human Resources Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+190,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+192,Research Scientist,Biological Scientists,,0
+193,Research Scientist,Biological Scientists,,0
+194,Research Scientist,Biological Scientists,,0
+195,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+197,Research Scientist,Biological Scientists,,0
+198,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",6
+199,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science",7
+200,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+201,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+202,Research Scientist,Biological Scientists,,0
+204,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+205,Sales Representative,Sales Representatives of Services,,0
+206,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+207,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+208,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+211,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+214,Research Scientist,Biological Scientists,,0
+215,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+216,Sales Representative,Sales Representatives of Services,,0
+217,Research Scientist,Biological Scientists,,0
+218,Research Scientist,Biological Scientists,,0
+221,Research Scientist,Biological Scientists,,0
+223,Healthcare Representative,Sales Representatives of Services,,0
+224,Research Scientist,Biological Scientists,,0
+226,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+227,Research Scientist,Biological Scientists,,0
+228,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+230,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+231,Research Scientist,Biological Scientists,,0
+233,Research Scientist,Biological Scientists,,0
+235,Sales Representative,Sales Representatives of Services,,0
+238,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+239,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+240,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+241,Research Scientist,Biological Scientists,,0
+242,Research Scientist,Biological Scientists,,0
+243,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+244,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+245,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+246,Research Scientist,Biological Scientists,,0
+247,Research Scientist,Biological Scientists,,0
+248,Sales Representative,Sales Representatives of Services,,0
+249,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+250,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+252,Research Scientist,Biological Scientists,,0
+253,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+254,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+256,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+258,Healthcare Representative,Sales Representatives of Services,,0
+259,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+260,Research Scientist,Biological Scientists,,0
+261,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+262,Research Scientist,Biological Scientists,,0
+264,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+267,Research Scientist,Biological Scientists,,0
+269,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+270,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+271,Manufacturing Director,Industrial Production Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+273,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+274,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science",7
+275,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+277,Research Scientist,Biological Scientists,,0
+281,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+282,Healthcare Representative,Sales Representatives of Services,,0
+283,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+284,Research Scientist,Biological Scientists,,0
+286,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+287,Healthcare Representative,Sales Representatives of Services,,0
+288,Healthcare Representative,Sales Representatives of Services,,0
+291,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+292,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+293,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+296,Research Director,Natural Sciences Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+297,Research Scientist,Biological Scientists,,0
+298,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+299,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+300,Research Scientist,Biological Scientists,,0
+302,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+303,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+304,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+305,Research Scientist,Biological Scientists,,0
+306,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+307,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+308,Manufacturing Director,Industrial Production Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science, Speaking",6
+309,Research Scientist,Biological Scientists,,0
+311,Sales Representative,Sales Representatives of Services,,0
+312,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+314,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+315,Research Scientist,Biological Scientists,,0
+316,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+319,Manager,General and Operations Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+321,Human Resources,Human Resources Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+323,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+325,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+327,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+328,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+329,Manager,General and Operations Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",7
+330,Sales Representative,Sales Representatives of Services,,0
+331,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+332,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+333,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+334,Research Scientist,Biological Scientists,,0
+335,Research Scientist,Biological Scientists,,0
+336,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+337,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+338,Research Scientist,Biological Scientists,,0
+339,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science",6
+340,Research Scientist,Biological Scientists,,0
+341,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+342,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+343,Healthcare Representative,Sales Representatives of Services,,0
+346,Research Scientist,Biological Scientists,,0
+347,Research Scientist,Biological Scientists,,0
+349,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+350,Manufacturing Director,Industrial Production Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+351,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science, Speaking",6
+352,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+353,Research Scientist,Biological Scientists,,0
+355,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+359,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+361,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+362,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+363,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+364,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+366,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+367,Healthcare Representative,Sales Representatives of Services,,0
+369,Healthcare Representative,Sales Representatives of Services,,0
+372,Healthcare Representative,Sales Representatives of Services,,0
+373,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+374,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+376,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+377,Research Scientist,Biological Scientists,,0
+378,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+379,Research Scientist,Biological Scientists,,0
+380,Research Director,Natural Sciences Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+381,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+382,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+384,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+385,Research Director,Natural Sciences Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+386,Research Director,Natural Sciences Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+387,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+388,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+389,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+390,Healthcare Representative,Sales Representatives of Services,,0
+391,Research Scientist,Biological Scientists,,0
+392,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+393,Healthcare Representative,Sales Representatives of Services,,0
+394,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+395,Research Scientist,Biological Scientists,,0
+396,Research Director,Natural Sciences Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+397,Research Scientist,Biological Scientists,,0
+399,Sales Representative,Sales Representatives of Services,,0
+401,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science",6
+403,Research Scientist,Biological Scientists,,0
+404,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+405,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+406,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+407,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+408,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+410,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+411,Sales Representative,Sales Representatives of Services,,0
+412,Healthcare Representative,Sales Representatives of Services,,0
+416,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+417,Healthcare Representative,Sales Representatives of Services,,0
+419,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",7
+420,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+421,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+422,Healthcare Representative,Sales Representatives of Services,,0
+423,Research Scientist,Biological Scientists,,0
+424,Human Resources,Human Resources Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+425,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+426,Research Scientist,Biological Scientists,,0
+428,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+429,Manager,General and Operations Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+430,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+431,Healthcare Representative,Sales Representatives of Services,,0
+433,Research Scientist,Biological Scientists,,0
+434,Research Scientist,Biological Scientists,,0
+436,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+437,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+438,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+439,Research Scientist,Biological Scientists,,0
+440,Research Scientist,Biological Scientists,,0
+441,Research Scientist,Biological Scientists,,0
+442,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+444,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+445,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+446,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+447,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science",7
+448,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+449,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+450,Research Scientist,Biological Scientists,,0
+451,Healthcare Representative,Sales Representatives of Services,,0
+452,Research Scientist,Biological Scientists,,0
+453,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+454,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+455,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+456,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",7
+458,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+460,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+461,Research Director,Natural Sciences Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+462,Manufacturing Director,Industrial Production Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science",5
+463,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+464,Manufacturing Director,Industrial Production Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+465,Research Scientist,Biological Scientists,,0
+466,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+467,Sales Representative,Sales Representatives of Services,,0
+468,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+469,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+470,Human Resources,Human Resources Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+471,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+473,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+474,Research Scientist,Biological Scientists,,0
+475,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+476,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+477,Healthcare Representative,Sales Representatives of Services,,0
+478,Sales Representative,Sales Representatives of Services,,0
+479,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+481,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+482,Healthcare Representative,Sales Representatives of Services,,0
+483,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+484,Sales Representative,Sales Representatives of Services,,0
+485,Sales Representative,Sales Representatives of Services,,0
+486,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+487,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+488,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+491,Healthcare Representative,Sales Representatives of Services,,0
+492,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+493,Research Scientist,Biological Scientists,,0
+494,Sales Representative,Sales Representatives of Services,,0
+495,Research Scientist,Biological Scientists,,0
+496,Healthcare Representative,Sales Representatives of Services,,0
+497,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+498,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+499,Healthcare Representative,Sales Representatives of Services,,0
+500,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+501,Research Scientist,Biological Scientists,,0
+502,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+505,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+507,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+508,Sales Representative,Sales Representatives of Services,,0
+510,Research Scientist,Biological Scientists,,0
+511,Research Scientist,Biological Scientists,,0
+513,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+514,Research Scientist,Biological Scientists,,0
+515,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+516,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+517,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+518,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+520,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+521,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+522,Research Director,Natural Sciences Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+523,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+524,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+525,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+526,Healthcare Representative,Sales Representatives of Services,,0
+527,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+529,Research Scientist,Biological Scientists,,0
+530,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+531,Manager,General and Operations Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+532,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+533,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+534,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+536,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+538,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+543,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+544,Research Scientist,Biological Scientists,,0
+546,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+547,Research Scientist,Biological Scientists,,0
+548,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+549,Manager,General and Operations Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+550,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+551,Healthcare Representative,Sales Representatives of Services,,0
+554,Sales Representative,Sales Representatives of Services,,0
+555,Sales Representative,Sales Representatives of Services,,0
+556,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+558,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+560,Research Scientist,Biological Scientists,,0
+562,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+564,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+565,Research Scientist,Biological Scientists,,0
+566,Human Resources,Human Resources Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+567,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",8
+568,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+569,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+571,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+573,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+574,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",8
+575,Research Director,Natural Sciences Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+577,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+578,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+579,Research Scientist,Biological Scientists,,0
+580,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+581,Manufacturing Director,Industrial Production Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science, Writing",6
+582,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+584,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+585,Sales Representative,Sales Representatives of Services,,0
+586,Healthcare Representative,Sales Representatives of Services,,0
+587,Healthcare Representative,Sales Representatives of Services,,0
+590,Human Resources,Human Resources Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+591,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+592,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+593,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+595,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+597,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+599,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+600,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+601,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+602,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+604,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+605,Manufacturing Director,Industrial Production Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+606,Sales Executive,Sales Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",8
+608,Human Resources,Human Resources Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",6
+611,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Writing",7
+612,Research Director,Natural Sciences Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+613,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9
+614,Sales Representative,Sales Representatives of Services,,0
+615,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+616,Healthcare Representative,Sales Representatives of Services,,0
+618,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",8
+620,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+621,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+622,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+623,Manufacturing Director,Industrial Production Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",9
+624,Healthcare Representative,Sales Representatives of Services,,0
+625,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+626,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+630,Research Scientist,Biological Scientists,,0
+631,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+632,Sales Representative,Sales Representatives of Services,,0
+634,Healthcare Representative,Sales Representatives of Services,,0
+635,Manufacturing Director,Industrial Production Managers,"Active Learning, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",7
+638,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+639,Research Scientist,Biological Scientists,,0
+641,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking",9
+643,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",8
+644,Manager,General and Operations Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+645,Sales Representative,Sales Representatives of Services,,0
+647,Laboratory Technician,Biological Technicians,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Science, Speaking, Writing",8
+648,Sales Representative,Sales Representatives of Services,,0
+649,Research Scientist,Biological Scientists,,0
+650,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+652,Laboratory Technician,Biological Technicians,"Active Learning, Learning Strategies, Mathematics, Monitoring, Science, Writing",6
+653,Sales Executive,Sales Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Science, Speaking",7
+655,Research Scientist,Biological Scientists,,0
+656,Sales Executive,Sales Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",8
+657,Research Scientist,Biological Scientists,,0
+659,Healthcare Representative,Sales Representatives of Services,,0
+661,Research Director,Natural Sciences Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science",7
+662,Research Scientist,Biological Scientists,,0
+663,Laboratory Technician,Biological Technicians,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+664,Manager,General and Operations Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",10
+665,Human Resources,Human Resources Managers,"Active Learning, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+666,Sales Representative,Sales Representatives of Services,,0
+667,Sales Representative,Sales Representatives of Services,,0
+669,Sales Representative,Sales Representatives of Services,,0
+671,Manager,General and Operations Managers,"Active Learning, Active Listening, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Speaking, Writing",9
+675,Research Scientist,Biological Scientists,,0
+677,Sales Executive,Sales Managers,"Active Learning, Active Listening, Critical Thinking, Learning Strategies, Mathematics, Monitoring, Reading Comprehension, Science, Writing",9

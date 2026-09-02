@@ -1,0 +1,7 @@
+dataset,rows,columns,missing_cells,duplicate_rows
+employee_attrition,1470,35,0,0
+employee_performance,5000,13,0,0
+employee_performance_pro,500,24,319,0
+occupation,1016,3,0,0
+essential_skills,18200,15,9100,0
+software_skills,31821,7,0,0
